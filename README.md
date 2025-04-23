@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux" />
 </p>
 
 ---
@@ -39,7 +38,7 @@
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunil-tech25/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:sunil.belipar@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=sunil.belipar@gmail.com)
 
 ---
 
