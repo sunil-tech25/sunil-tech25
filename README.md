@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">Aspiring Python AI Developer | M.Tech (CSE)</h3>
 
-- 🔭 Currently working on: **Learning Python full-stack development**
+- 🔭 Currently working on: **Learning Python full-stack development & real-world AI projects**
 
-- 🌱 Currently learning: **Django, MySQL, Python OOPs, Functions, and Real-world coding**
+- 🏢 Currently doing internship at: **Tricky Web Solutions as a Python AI Developer Trainee**
 
-- 💼 Seeking: **Internship or junior developer roles in Python AI**
+- 🌱 Learning focus: **Django, MySQL, Python OOPs, Functions, AI libraries & project building**
 
-- 📚 Daily practice: Python coding + Soft skills + Time management
+- 💼 Actively looking for: **Full-time roles as a Python AI Developer**
+
+- 📚 Daily routine: Python coding + Soft skills + Time management
 
 - 🧠 Also exploring: **Health, productivity & self-improvement**
 
-- 📫 How to reach me: **sunil.belipar@gmail.com**
+- 📫 Contact: **sunil.belipar@gmail.com**
 
 - ⚡ Fun fact: I don’t go to the gym, but I train my mind like a warrior 💪🧘‍♂️
 
@@ -22,6 +24,9 @@
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Numpy-lightgrey?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn" />
 </p>
 
 ---
