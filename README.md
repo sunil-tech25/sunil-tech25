@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
-<h3 align="center">Aspiring Python Developer | M.Tech (CSE) | Trader (Crypto, Forex & Indian Stock Market)</h3>
+<h3 align="center">Aspiring Python AI Developer | M.Tech (CSE)</h3>
 
-- 🔭 Currently working on: **Learning Python full-stack development & practical trading strategies**
+- 🔭 Currently working on: **Learning Python full-stack development**
 
 - 🌱 Currently learning: **Django, MySQL, Python OOPs, Functions, and Real-world coding**
 
-- 💼 Seeking: **Internship or junior developer roles in Python**
+- 💼 Seeking: **Internship or junior developer roles in Python AI**
 
-- 📚 Daily practice: Python coding + Trading + Soft skills + Time management
+- 📚 Daily practice: Python coding + Soft skills + Time management
 
 - 🧠 Also exploring: **Health, productivity & self-improvement**
 
