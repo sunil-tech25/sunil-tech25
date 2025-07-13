@@ -5,7 +5,7 @@
 
 - 🏢 Currently doing internship at: **Tricky Web Solutions as a Python AI Developer Trainee**
 
-- 🌱 Learning focus: **Django, MySQL, Python OOPs, Functions & project building**
+- 🌱 Learning focus: **Django, Django REST API, MySQL, Python OOPs, Functions, NumPy, Pandas & Machine Learning Concepts**
 
 - 💼 Actively looking for: **Full-time roles as a Python AI Developer**
 
@@ -23,7 +23,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/DRF-black?style=for-the-badge&logo=django" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/NumPy-lightblue?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
 </p>
 
 ---
