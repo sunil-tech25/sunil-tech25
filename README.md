@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
-<h3 align="center">Aspiring Python AI Developer | M.Tech (CSE)</h3>
+<h3 align="center">Python AI Developer | M.Tech (CSE)</h3>
 
-- 🔭 Currently working on: **Learning Python full-stack development & real-world projects**
+- 🔭 Currently working on: **AI-powered backend systems, RAG-based applications & real-world Python projects**
 
-- 🏢 Currently doing internship at: **Tricky Web Solutions as a Python AI Developer Trainee**
+- 🏢 Currently working at: **Elyria Software Pvt. Ltd. as a Python AI Developer**
 
-- 🌱 Learning focus: **Django, Django REST API, MySQL, Python OOPs, Functions, NumPy, Pandas & Machine Learning Concepts**
+- 🌱 Learning focus: **FastAPI, Django, MySQL, Python OOPs, NumPy, Pandas, Machine Learning & LLM-based systems**
 
-- 💼 Actively looking for: **Full-time roles as a Python AI Developer**
+- 🧠 Core expertise areas: **RAG (Retrieval-Augmented Generation), API Development, AI Integrations**
 
-- 📚 Daily routine: Python coding + Soft skills + Time management
+- 💼 Open to opportunities: **Python AI Developer / Backend AI Engineer (India, UAE, Europe)**
 
-- 🧠 Also exploring: **Health, productivity & self-improvement**
+- 📚 Daily routine: **Python coding, AI research, system design & self-improvement**
 
 - 📫 Contact: **sunil.belipar@gmail.com**
 
@@ -22,8 +22,11 @@
 ### 🛠️ Skills & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/DRF-black?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/NumPy-lightblue?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
@@ -32,7 +35,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunil-tech25&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-tech25&layout=compact&theme=tokyonight" />
@@ -47,4 +49,4 @@
 
 ---
 
-_Keep hustling, stay focused — the journey is just getting started 🚀_
+_Keep hustling, stay focused — building AI systems that solve real-world problems 🚀_
