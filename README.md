@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">Python AI Developer | M.Tech (CSE)</h3>
 
-- 🔭 Currently working on: **AI-powered backend systems, RAG-based applications & production-ready Python solutions**
-
 - 🏢 Currently working at: **Elyria Software Pvt. Ltd. as a Python AI Developer**
 
 - 🧠 Expertise: **FastAPI, Django, RAG (Retrieval-Augmented Generation), Machine Learning, LLM Integrations**
