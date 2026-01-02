@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">Python AI Developer | M.Tech (CSE)</h3>
 
-- 🔭 Currently working on: **AI-powered backend systems, RAG-based applications & real-world Python projects**
+- 🔭 Currently working on: **AI-powered backend systems, RAG-based applications & production-ready Python solutions**
 
 - 🏢 Currently working at: **Elyria Software Pvt. Ltd. as a Python AI Developer**
 
-- 🌱 Learning focus: **FastAPI, Django, MySQL, Python OOPs, NumPy, Pandas, Machine Learning & LLM-based systems**
-
-- 🧠 Core expertise areas: **RAG (Retrieval-Augmented Generation), API Development, AI Integrations**
+- 🧠 Expertise: **FastAPI, Django, RAG (Retrieval-Augmented Generation), Machine Learning, LLM Integrations**
 
 - 💼 Open to opportunities: **Python AI Developer / Backend AI Engineer (India, UAE, Europe)**
 
-- 📚 Daily routine: **Python coding, AI research, system design & self-improvement**
+- 📚 Professional routine: **Backend development, AI research, system design & continuous improvement**
 
 - 📫 Contact: **sunil.belipar@gmail.com**
 
@@ -49,4 +47,4 @@
 
 ---
 
-_Keep hustling, stay focused — building AI systems that solve real-world problems 🚀_
+_Keep building. Keep shipping. Focus on impact 🚀_
